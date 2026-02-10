@@ -20,7 +20,6 @@ To keep things organized without constant README updates, the code is structured
 - `LinkedList/` - Singly, Doubly, and Circular logic.
 - `Complexity-Analysis/` - Notes on Big O notation.
 
-> **Note to Recruiters:** Please check the **Commit History** to see my daily activity and the evolution of my problem-solving skills.
 
 ---
 
